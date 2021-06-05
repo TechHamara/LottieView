@@ -1,13 +1,14 @@
 # LottieView
 Create Custom LottieView in your App, Appinventor kodular, niotron
-<br>You can set url to load online data, and set custom width height and bgColor<br> repeat value is auto play in boolean value
-<br><b> Example Blocks<b> <br>
-   <br>
-  <br> 
+<br>You can set url to load online <a href='https://lottiefiles.com/' target='_blank'>lottie file</a> animation data.
+<br>  <br>
+<b> Example Blocks<b> <br>
+ 
+  
   <b>Blocks1<b><br>
  * <b>layout</b>- set layout.
    <br>
- * <b>srcUrl</b>- set <a href='https://lottiefiles.com/' target='_blank'>lottie file</a> json url in String.
+ * <b>srcUrl</b>- set json url in String.
      <br>
 <img width="610" alt="blocks (50)" src="https://user-images.githubusercontent.com/83898001/120901004-ca17a880-c655-11eb-844e-c8579f58b334.png">
   <br>
@@ -15,7 +16,7 @@ Create Custom LottieView in your App, Appinventor kodular, niotron
   <br> <b>Blocks2 A<br>
  * <b>layout</b>- set layout.
    <br>
- * <b>srcUrl</b>- set <a href='https://lottiefiles.com/' target='_blank'>lottie file</a> json url in String.
+ * <b>srcUrl</b>- set json url in String.
      <br>
  * <b>height </b>- set height in int value.
        <br>
@@ -32,7 +33,7 @@ Create Custom LottieView in your App, Appinventor kodular, niotron
   <br> <b>Blocks2 B<b>
  * <b>layout</b>- set layout.
    <br>
- * <b>srcUrl</b>- set <a href='https://lottiefiles.com/' target='_blank'>lottie file</a> json url in String.
+ * <b>srcUrl</b>- set json url in String.
      <br>
  * <b>height </b>- set height in int value.
        <br>
