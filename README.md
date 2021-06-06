@@ -1,7 +1,7 @@
 # LottieView
-Create Custom LottieView in your App in this <a href='http://airbnb.io/lottie/#/web' target='_blank'>airbnb.io</a>
+Create Custom LottieView in your App in this lib👉 <a href='http://airbnb.io/lottie/#/web' target='_blank'>airbnb.io</a>
 , Appinventor kodular, niotron
-<br>You can set url to load online <a href='https://lottiefiles.com/' target='_blank'>lottie file</a> animation data.
+<br>You can set url to load online 👉<a href='https://lottiefiles.com/' target='_blank'>lottie file</a> animation data.
 <br>  <br>
 <b> Example Blocks<b> <br>
  
