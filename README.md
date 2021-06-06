@@ -47,3 +47,18 @@ Create Custom LottieView in your App in this lib👉 <a href='http://airbnb.io/l
            <br>
 <img width="625" alt="blocks (48)" src="https://user-images.githubusercontent.com/83898001/120901021-e0256900-c655-11eb-8d5f-8756d2e92615.png">
      
+   <br>
+   <br>Join our telegram Group of letest update
+<br>TECHHAMARA
+App Development help aia and Extension To Join This Group
+https://t.me/TECHHAMARA
+<br>
+Preview this Extension 
+<br>
+https://youtu.be/30lDAEMxCzQ
+<br>
+You Can Love My Work then like and feel free to Donate me PAYPAL
+<br>https://www.paypal.me/techhamara
+<br>
+[![TextAnimation](https://img.youtube.com/vi/30lDAEMxCzQ/0.jpg)](https://www.youtube.com/watch?v=30lDAEMxCzQ)
+
