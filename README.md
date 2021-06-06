@@ -11,7 +11,7 @@ Create Custom LottieView in your App in this lib👉 <a href='http://airbnb.io/l
    <br>
  * <b>srcUrl</b>- set json url in String.
      <br>
-<img width="610" alt="blocks (50)" src="https://user-images.githubusercontent.com/83898001/120901004-ca17a880-c655-11eb-844e-c8579f58b334.png">
+https://raw.githubusercontent.com/TechHamara/LottieView/main/IMG_20210606_190821.jpg
   <br>
     
   <br> <b>Blocks2 A<br>
